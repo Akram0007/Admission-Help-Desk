@@ -38,6 +38,7 @@ Admission Help Desk (AHD) is a Java-based application designed to help students 
 
 ## Hit the Star! ⭐
 If you are planning to use this repo for learning, please hit the star. Thanks!
+
 Authored by [Md. Akramul Islam](https://github.com/Akram0007).
 
 
