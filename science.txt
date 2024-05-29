@@ -1,0 +1,49 @@
+Bangladesh University of Engineering and Technology//4.00 5.00 9.00 1000 1215
+Khulna University of Engineering and Technology//4.00 5.00 9.00 900 1056
+Rajshahi University of Engineering and Technology//4.00 5.00 9.00 900 1235
+Chittagong University of Engineering and Technology//4.00 5.00 9.00 900 901
+Bangladesh University of Textiles//4.50 4.50 9.00 850 600
+Military Institute of Science and Technology//4.00 5.00 9.00 750 595
+Bangladesh University of Professionals//4.50 4.50 9.25 750 150
+Dhaka University//3.50 3.50 8.50 650 1810
+Rajshahi University//3.50 3.50 8.00 1280 1612
+Chittagong University//3.00 3.00 6.50 550 1212
+Jahangirnagar University//3.50 3.50 7.50 550 410
+Khulna University//3.50 3.50 8.00 500 645
+Barisal University//3.50 3.50 8.00 500 649
+Comilla University//3.50 3.50 8.00 500 515
+Jagannath University//3.50 3.50 8.00 500 1245
+Islamic University//3.50 3.50 8.00 500 550
+Begum Rokeya University Rangpur//3.50 3.50 8.00 500 692
+Jatiya Kabi Kazi Nazrul Islam University//3.50 3.50 8.00 500 272
+Rabindra University//3.50 3.50 8.00 500 300
+Bangabandhu Sheikh Mujibur Rahman Digital University//3.50 3.50 8.00 500 100
+Sheikh Hasina University//3.50 3.50 8.00 500 30
+Shahjalal University of Science and Technology//3.50 3.50 8.00 500 1210
+Hajee Mohammad Danesh Science and Technology University//3.50 3.50 8.00 500 1360
+Mawlana Bhashani Science and Technology University//3.50 3.50 8.00 500 733
+Patuakhali Science and Technology University//3.50 3.50 8.00 500 300
+Noakhali Science and Technology University//3.50 3.50 8.00 500 970
+Jessore University of Science and Technology//3.50 3.50 8.00 500 685
+Pabna University of Science and Technology//3.50 3.50 8.00 500 650
+Rangamati Science and Technology University//3.50 3.50 8.00 500 75
+North South University//3.5 3.5 8.0 1500 1256
+Brac University//3.5 3.5 7.0 1500 1180
+Independent University of Bangladesh//3.0 3.0 7.0 1000 891
+East West University//3.0 3.0 6.0 1200 675
+Ahsanullah University of Science and Technology//3.5 3.5 8.0 500 700
+United International University//2.5 2.5 6.0 1000 840
+American International University Bangladesh//2.5 2.5 5.0 560 1332
+Daffodil International University//2.5 2.5 5.0 1500 3225
+University of Asia Pacific//2.5 2.5 6.0 1200 800
+Green University of Bangladesh//2.5 2.5 6.0 1000 956
+University of Liberal Arts Bangladesh//2.5 2.5 6.0 1200 450
+International Islamic University Chittagong//2.5 2.5 6.0 500 620
+International University of Business Agriculture and Technology//2.5 2.5 6.0 500 520
+Stamford University Bangladesh//2.5 2.5 6.0 456 397
+Southeast University//2.5 2.5 6.0 560 789
+Eastern University Bangladesh//2.5 2.5 6.0 500 923
+Bangladersh University of Business and Technology//2.5 2.5 6.0 1400 1560 
+State University of Bangladesh//2.5 2.5 6.0 720 890
+Northern University Bangladesh//2.5 2.5 6.0 300 526
+red university//3.50 4.50 9.00 1230 1234
